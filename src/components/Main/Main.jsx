@@ -9,6 +9,7 @@ export default function Main (props) {
                     <h1>Карточка номер 1</h1>
                     <p>{props.arrWords[0].word}</p>
                     <button>Показать перевод</button>
+                    <img src="" alt="" />
                 </div>
             </div>
             <button>-</button>
